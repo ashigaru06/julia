@@ -1,0 +1,2 @@
+# julia_practice
+JuliaでAtcoder解いて残しておきたいコードとか基本の構文など
